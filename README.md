@@ -5,7 +5,7 @@
 **Este proyecto es simplemente para explicar markdown**
 *Esto estara en cursiva*
 > Lo interesante de markdown es lo poco que tenemos que memorizar de palabras reservadas y es practicamente igual que HTML
-	
+	Here's a sentence with a footnote. [^1]
 1. Encender el pc
 2. Abrir un juego
 3. Jugar
@@ -28,3 +28,6 @@ Unordered List
   "age": 17
 }
 ```
+
+
+[^1]: Este es el pie de pagina
