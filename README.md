@@ -1,4 +1,4 @@
-#Propietario deñ proyecto : Diego Zapatero
+#Propietario del proyecto : Diego Zapatero
 
 
 
