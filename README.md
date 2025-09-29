@@ -21,3 +21,10 @@ Unordered List
 | 1 | A |
 | 2 | B |
 | 3 | C |
+```
+{
+  "firstName": "Diego",
+  "lastName": "Zapatero",
+  "age": 17
+}
+```
