@@ -32,6 +32,10 @@ Git
 : Control de versiones 
 IDE
 : Ecplise para hacer proyectos
+Tareas a realizar
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 
 [^1]: Este es el pie de pagina
