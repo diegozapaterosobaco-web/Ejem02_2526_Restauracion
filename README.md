@@ -36,7 +36,7 @@ Tareas a realizar
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-
+Modificacion realizada en local
 
 ==destacado==
 
