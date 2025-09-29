@@ -28,6 +28,11 @@ Unordered List
   "age": 17
 }
 ```
+Git
+: Control de versiones 
+IDE
+: Ecplise para hacer proyectos
 
 
 [^1]: Este es el pie de pagina
+
